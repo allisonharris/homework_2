@@ -1,3 +1,4 @@
 # homework_2
 classes and functions
-making a change!
+Allison Harris
+Week 2 Homework
